@@ -4,6 +4,8 @@
 # Except
 !infinite_loop\.s
 !infinite_loop\.ld
+!hello_world_kernel\.s
+!hello_world_kernel\.ld
 !Makefile
 !README.md
 !.gitignore
