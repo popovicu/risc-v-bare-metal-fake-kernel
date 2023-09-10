@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Except
+!infinite_loop\.s
+!infinite_loop\.ld
+!Makefile
+!README.md
+!.gitignore
