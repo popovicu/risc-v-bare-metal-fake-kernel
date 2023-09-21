@@ -1,6 +1,6 @@
 # RISC-V bare metal "fake kernel"
 
-This code is meant to accompany the website article: TODO
+This code is meant to accompany the website article: https://popovicu.com/posts/risc-v-sbi-and-full-boot-process/
 
 *You may want to change your cross compile make prefix with `CROSS_COMPILE`*
 
